@@ -1,0 +1,1400 @@
+<!DOCTYPE html><!--  Last Published: Fri May 31 2024 04:49:41 GMT+0000 (Coordinated Universal Time)  --><html data-wf-site="650d4c498dee74c438edae9b" lang="en"> <head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1" name="viewport"><link href="/images/favicon.png" rel="shortcut icon" type="image/x-icon"><link href="/images/webclip.png" rel="apple-touch-icon"><link rel="alternate" type="application/rss+xml" title="ASUS Press RSS Feed" href="/rss.xml"><title>Page Not Found | ASUS Pressroom - Official Global News & Updates</title><link rel="canonical" href="https://press.asus.com/404"><meta name="description" content="Discover the latest ASUS news, press releases, and global updates at the official ASUS Pressroom. Explore now! Visit press.asus.com
+
+"><meta name="robots" content="noindex, nofollow"><meta property="og:title" content="Page Not Found"><meta property="og:type" content="website"><meta property="og:image" content="https://press.asus.com/assets/w_1200,h_630/ebd11b7f-7071-4306-a667-9602f47d19f5/defaultImg.bb7db14%20(1).jpg"><meta property="og:url" content="https://press.asus.com/404"><meta name="twitter:image" content="https://press.asus.com/assets/w_1200,h_630/ebd11b7f-7071-4306-a667-9602f47d19f5/defaultImg.bb7db14%20(1).jpg"><meta name="twitter:title" content="Page Not Found"><meta name="twitter:description" content="Discover the latest ASUS news, press releases, and global updates at the official ASUS Pressroom. Explore now! Visit press.asus.com
+
+"><meta name="twitter:card" content="summary_large_image"><!-- Webflow CSS --><link href="/css/normalize.css" rel="stylesheet" type="text/css"><link href="/css/webflow.css" rel="stylesheet" type="text/css"><link href="/css/asus-press.webflow.css" rel="stylesheet" type="text/css"><style>
+      /* live display */
+      [class*="ld0"] {
+        display: none;
+      }
+      [class*="ld1"] {
+        display: block;
+      }
+      /* live opacity */
+      [class*="lo0"] {
+        opacity: 0;
+      }
+      [class*="lo1"] {
+        opacity: 1;
+      }
+    </style><script>(function(){const measurementId = "GTM-NJRLM8";
+const analyticsConsent = false;
+
+  function initializeGTM() {
+    if (window.gtmInitialized) return;
+    window.gtmInitialized = true;
+
+    // Initialize GTM
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", measurementId);
+  }
+
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(";").shift();
+    return null;
+  }
+
+  // Initialize immediately if consent already given
+  if (analyticsConsent || getCookie("isCookiePolicyAnalytics") === "true") {
+    initializeGTM();
+    // Wait for DOM to be ready before adding noscript
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', addNoScriptFallback);
+    } else {
+      addNoScriptFallback();
+    }
+  }
+
+  function addNoScriptFallback() {
+    // Check if noscript already exists (either server-rendered or dynamically added)
+    if (
+      document.querySelector(
+        'noscript iframe[src*="googletagmanager.com/ns.html"]'
+      )
+    )
+      return;
+
+    const iframe = document.createElement("iframe");
+    iframe.src = `https://www.googletagmanager.com/ns.html?id=${measurementId}`;
+    iframe.height = "0";
+    iframe.width = "0";
+    iframe.style.display = "none";
+    iframe.style.visibility = "hidden";
+
+    const noscript = document.createElement("noscript");
+    noscript.appendChild(iframe);
+
+    // Insert at the beginning of body, or append if no children
+    if (document.body?.firstChild) {
+      document.body.insertBefore(noscript, document.body.firstChild);
+    }
+  }
+
+  // Listen for cookie banner close event
+  window.addEventListener("cookieBannerClose", function () {
+    if (getCookie("isCookiePolicyAnalytics") === "true") {
+      initializeGTM();
+      // Wait for DOM to be ready before adding noscript
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', addNoScriptFallback);
+      } else {
+        addNoScriptFallback();
+      }
+    }
+  });
+})();</script><!-- API Config --><script>
+  window.AsusAPIConfig = {
+    appID: "",
+    system: "asus",
+    websitePath: "global",
+    websiteID: 1,
+    language: "en-us",
+    eliteToken: "",
+    simplifyHeader: false,
+    simplifyFooter: false,
+    showECFooter: false,
+    isHasCookieBanner: true,
+    cookieBannerHold: false,
+    cookieBannerElement: document.body,
+    reminderElement: document.body,
+    reminder: async function (reminderWebsiteCode) {
+      const data = {
+        reminderURL: reminderWebsiteCode
+          ? `https://www.asus.com/${reminderWebsiteCode}`
+          : "",
+      };
+      return data;
+    },
+    development: false,
+    pageKey: "",
+    corsID: "",
+  };
+</script> <!-- CookieBanner API --><script src="https://dlcdnimgs.asus.com/vendor/cookie-banner/js/alert-info.js"></script><script type="text/javascript">
+      !(function (o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        (n.className += t + "js"),
+          ("ontouchstart" in o ||
+            (o.DocumentTouch && c instanceof DocumentTouch)) &&
+            (n.className += t + "touch");
+      })(window, document);
+    </script></head> <body>  <div class="page_wrap" section-mode> <div class="page_code_wrap"> <div class="page_code_typography w-embed"> <style>
+      /* TYPOGRAPHY STYLES */
+      /* defaults */
+      [class*="fs0"],
+      h1,
+      [class*="fs1"],
+      h2,
+      [class*="fs2"],
+      h3,
+      [class*="fs3"],
+      h4,
+      [class*="fs4"],
+      h5,
+      [class*="fs5"],
+      h6,
+      [class*="fs6"],
+      p,
+      [class*="fs7"] {
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+        letter-spacing: inherit;
+        text-transform: inherit;
+      }
+      body {
+        font-smoothing: antialiased;
+        -webkit-font-smoothing: antialiased;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      :is(h1, h2, h3, h4, h5, h6, p) a {
+        text-decoration: underline;
+      }
+      .w-richtext > *:first-child {
+        margin-top: 0;
+      }
+      .w-richtext > *:last-child {
+        margin-bottom: 0;
+      }
+      /* body font styles */
+      body {
+        font-size: 1.125rem;
+        font-family: var(--ff2);
+        font-weight: var(--fw1);
+        line-height: var(--lh1);
+        letter-spacing: var(--ls1);
+        text-transform: var(--tt1);
+      }
+      /* heading font styles */
+      [class*="fs0"],
+      h1,
+      [class*="fs1"],
+      h2,
+      [class*="fs2"],
+      h3,
+      [class*="fs3"],
+      h4,
+      [class*="fs4"],
+      h5,
+      [class*="fs5"],
+      h6,
+      [class*="fs6"] {
+        font-family: var(--ff1);
+        font-weight: var(--fw3);
+        line-height: var(--lh2);
+        letter-spacing: var(--ls2);
+        /* text-transform: var(--tt0); */
+      }
+      /* individual font styles */
+      [class*="fs0"] {
+        font-size: 3rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      h1,
+      [class*="fs1"] {
+        font-size: 2.625rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      h2,
+      [class*="fs2"] {
+        font-size: 2rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      h3,
+      [class*="fs3"] {
+        font-size: 1.5rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      h4,
+      [class*="fs4"] {
+        font-size: 1.25rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      h5,
+      [class*="fs5"] {
+        font-size: 1.125rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      h6,
+      [class*="fs6"] {
+        font-size: 1rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      [class*="fs7"] {
+        font-size: inherit;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      [class*="fs7-1"] {
+        font-size: 1.25rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      [class*="fs7-2"] {
+        font-size: 0.875rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      [class*="fs7-3"] {
+        font-size: 1rem;
+        /* font-family: var(--ff0); */
+        /* font-weight: var(--fw0); */
+        /* line-height: var(--lh0); */
+        /* letter-spacing: var(--ls0); */
+        /* text-transform: var(--tt0); */
+      }
+      /* responsive font styles */
+      @media screen and (max-width: 991px) {
+        /* tablet font styles */
+        [class*="fs0"] {
+          font-size: 3rem;
+        }
+        h1,
+        [class*="fs1"] {
+          font-size: 2.25rem;
+        }
+        h2,
+        [class*="fs2"] {
+          font-size: 1.875rem;
+        }
+        h3,
+        [class*="fs3"] {
+          /* font-size: 0rem; */
+        }
+        h4,
+        [class*="fs4"] {
+          /* font-size: 0rem; */
+        }
+        h5,
+        [class*="fs5"] {
+          /* font-size: 0rem; */
+        }
+        h6,
+        [class*="fs6"] {
+          /* font-size: 0rem; */
+        }
+        body {
+          /* font-size: 0rem; */
+        }
+        [class*="fs7-1"] {
+          /* font-size: 0rem; */
+        }
+        [class*="fs7-2"] {
+          /* font-size: 0rem; */
+        }
+      }
+      @media screen and (max-width: 767px) {
+        /* landscape font styles */
+        [class*="fs0"] {
+          font-size: 2.5rem;
+        }
+        h1,
+        [class*="fs1"] {
+          font-size: 2rem;
+        }
+        h2,
+        [class*="fs2"] {
+          font-size: 1.75rem;
+        }
+        h3,
+        [class*="fs3"] {
+          /* font-size: 0rem; */
+        }
+        h4,
+        [class*="fs4"] {
+          /* font-size: 0rem; */
+        }
+        h5,
+        [class*="fs5"] {
+          /* font-size: 0rem; */
+        }
+        h6,
+        [class*="fs6"] {
+          /* font-size: 0rem; */
+        }
+        body {
+          /* font-size: 0rem; */
+        }
+        [class*="fs7-1"] {
+          /* font-size: 0rem; */
+        }
+        [class*="fs7-2"] {
+          /* font-size: 0rem; */
+        }
+      }
+      @media screen and (max-width: 479px) {
+        /* portrait font styles */
+        [class*="fs0"] {
+          /* font-size: 0rem; */
+        }
+        h1,
+        [class*="fs1"] {
+          /* font-size: 0rem; */
+        }
+        h2,
+        [class*="fs2"] {
+          /* font-size: 0rem; */
+        }
+        h3,
+        [class*="fs3"] {
+          /* font-size: 0rem; */
+        }
+        h4,
+        [class*="fs4"] {
+          /* font-size: 0rem; */
+        }
+        h5,
+        [class*="fs5"] {
+          /* font-size: 0rem; */
+        }
+        h6,
+        [class*="fs6"] {
+          /* font-size: 0rem; */
+        }
+        body {
+          /* font-size: 0rem; */
+        }
+        [class*="fs7-1"] {
+          /* font-size: 0rem; */
+        }
+        [class*="fs7-2"] {
+          /* font-size: 0rem; */
+        }
+      }
+      /* variables */
+      html {
+        /* font family */
+        --ff0: inherit;
+        --ff1: Tt Norms Pro, sans-serif;
+        --ff2: Roboto, sans-serif;
+        /* font weight */
+        --fw0: inherit;
+        --fw1: 400;
+        --fw2: 500;
+        --fw3: 700;
+        /* line height */
+        --lh0: inherit;
+        --lh1: 1.5;
+        --lh2: 1.3;
+        --lh3: 1.1;
+        --lh4: 1;
+        /* letter spacing */
+        --ls0: inherit;
+        --ls1: 0em;
+        --ls2: -0.03em;
+        /* text transform */
+        --tt0: inherit;
+        --tt1: none;
+        --tt2: uppercase;
+        --tt3: capitalize;
+        --tt4: lowercase;
+      }
+      /* utilities */
+      /* font family */
+      [class*="ff2"] {
+        font-family: var(--ff2);
+      }
+      [class*="ff1"] {
+        font-family: var(--ff1);
+      }
+      [class*="ff0"] {
+        font-family: var(--ff0);
+      }
+      /* font weight */
+      [class*="fw1"] {
+        font-weight: var(--fw1);
+      }
+      [class*="fw2"] {
+        font-weight: var(--fw2);
+      }
+      [class*="fw3"] {
+        font-weight: var(--fw3);
+      }
+      [class*="fw0"] {
+        font-weight: var(--fw0);
+      }
+      /* line height */
+      [class*="lh1"] {
+        line-height: var(--lh1);
+      }
+      [class*="lh2"] {
+        line-height: var(--lh2);
+      }
+      [class*="lh3"] {
+        line-height: var(--lh3);
+      }
+      [class*="lh4"] {
+        line-height: var(--lh4);
+      }
+      [class*="lh0"] {
+        line-height: var(--lh0);
+      }
+      /* letter spacing */
+      [class*="ls1"] {
+        letter-spacing: var(--ls1);
+      }
+      [class*="ls2"] {
+        letter-spacing: var(--ls2);
+      }
+      [class*="ls0"] {
+        letter-spacing: var(--ls0);
+      }
+      /* text transform */
+      [class*="tt1"] {
+        text-transform: var(--tt1);
+      }
+      [class*="tt2"] {
+        text-transform: var(--tt2);
+      }
+      [class*="tt3"] {
+        text-transform: var(--tt3);
+      }
+      [class*="tt4"] {
+        text-transform: var(--tt4);
+      }
+      [class*="tt0"] {
+        text-transform: var(--tt0);
+      }
+      /* line clamp */
+      [class*="lc1"],
+      [class*="lc2"],
+      [class*="lc3"],
+      [class*="lc4"] {
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+      }
+      [class*="lc2"] {
+        -webkit-line-clamp: 2;
+      }
+      [class*="lc3"] {
+        -webkit-line-clamp: 3;
+      }
+      [class*="lc4"] {
+        -webkit-line-clamp: 4;
+      }
+      /* text wrap */
+      [class*="tw1"] {
+        text-wrap: balance;
+      }
+    </style> </div> <div class="page_code_color w-embed"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lumosframework/lumos@v1.0.5/color.css" integrity="sha384-JAEvfYYfmu9bMStT4aa54a2cmbZukB6eh+i48hQaJbrESuoOKnehDwBxNjW+Nxxi" crossorigin="anonymous"> <style id="lumos-colors">
+      /* COLOR STYLES */
+      /**%#**/
+      /* btn and link mode transitions */
+      [btn-mode],
+      [class*="bm0"],
+      [link-mode],
+      [class*="lm0"] {
+        transition-property: background-color, color, border-color, box-shadow,
+          background-position;
+        transition-duration: 200ms;
+      }
+      /* applies default border width to cards, elements, and buttons */
+      [card-mode]:not([card-mode=""]),
+      [class*="cm0"],
+      [element-mode]:not([element-mode=""]),
+      [class*="em0"],
+      [btn-mode]:not([btn-mode=""]),
+      [class*="bm0"] {
+        --border-width: var(--bw1);
+      }
+      /**#%**/
+      /* global swatches */
+      html {
+        --dark-1: 0, 0, 0;
+        --dark-2: 38, 38, 38;
+        --dark-3: 83, 86, 90;
+        --gray-1: 117, 117, 117;
+        --gray-2: 67, 68, 70;
+        --light-3: 235, 235, 235;
+        --light-2: 245, 246, 246;
+        --light-1: 255, 255, 255;
+        --brand-1: 19, 62, 212;
+        --brand-2: 2, 203, 253;
+        --brand-3: 0, 245, 202;
+      }
+      /* section mode 1 (light mode) */
+      body, [section-mode="1"], [class*="sm0-1"],
+/* styles card mode 2 when inside section mode 2 */
+:is([section-mode="2"], [class*="sm0-2"]) :is([card-mode="2"], [class*="cm0-2"]) {
+        /* section mode 1 */
+        --m-bg1: rgba(var(--light-1), 1);
+        --m-bg2: rgba(var(--light-2), 1);
+        --m-bg3: rgba(var(--light-2), 0.1);
+        --m-bg4: rgba(var(--gray-2), 1);
+        --m-fc1: rgba(var(--dark-1), 1);
+        --m-fc2: rgba(var(--gray-1), 1);
+        --m-fc3: rgba(var(--brand-3), 1);
+        --m-bc1: rgba(var(--light-3), 1);
+        --m-sc1: rgba(var(--dark-1), 1);
+        /* element mode 1 (tag) */
+        --em1-bg1: rgba(var(--light-2), 1);
+        --em1-fc1: rgba(var(--gray-1), 1);
+        --em1-bc1: rgba(var(--gray-1), 0.15);
+        --em1-bg1-hover: rgba(var(--light-3), 1);
+        /* btn mode 1 (primary) */
+        --bm1-bg1i: linear-gradient(
+          90deg,
+          rgba(var(--brand-1), 1),
+          rgba(var(--brand-2), 1),
+          rgba(var(--brand-1), 1)
+        );
+        --bm1-fc1: rgba(var(--light-1), 1);
+        /* btn mode 2 (secondary) */
+        --bm2-fc1: rgba(var(--dark-1), 1);
+        --bm2-bg1-hover: rgba(var(--dark-1), 1);
+        --bm2-fc1-hover: rgba(var(--light-2), 1);
+        /* btn mode 3 (nav button) */
+        --bm3-bg1: rgba(var(--light-1), 0);
+        --bm3-fc1: rgba(var(--dark-1), 1);
+        --bm3-bg1-hover: rgba(var(--light-2), 1);
+        /* btn mode 4 (download button) */
+        --bm4-fc1: rgba(var(--dark-1), 1);
+        --bm4-bg1b: rgba(var(--light-3), 1);
+        --bm4-bg1b-hover: rgba(var(--dark-1), 1);
+        --bm4-fc1-hover: rgba(var(--dark-1), 1);
+        /* link mode 1 (tab link) */
+        --lm1-fc1: rgba(var(--dark-1), 1);
+        --lm1-fc1-hover: rgba(var(--dark-1), 0.75);
+        --lm1-bg1b-active: rgba(var(--dark-1), 1);
+        --lm1-fc1-active: rgba(var(--dark-1), 1);
+      }
+      /* section mode 2 (dark mode) */
+      [section-mode="2"], [class*="sm0-2"],
+/* card mode 2 */
+[card-mode="2"], [class*="cm0-2"],
+/* styles card mode 2 when inside section mode 1 */
+:is([section-mode="1"], [class*="sm0-1"]) :is([card-mode="2"], [class*="cm0-2"]) {
+        /* section mode 2 */
+        --m-bg1: rgba(var(--dark-1), 1);
+        --m-bg2: rgba(var(--dark-2), 1);
+        --m-bg3: rgba(var(--dark-2), 0.1);
+        --m-bg4: rgba(var(--gray-2), 1);
+        --m-fc1: rgba(var(--light-1), 1);
+        --m-fc2: rgba(var(--light-3), 1);
+        --m-fc3: rgba(var(--brand-3), 1);
+        --m-bc1: rgba(var(--dark-3), 1);
+        --m-sc1: rgba(var(--light-1), 1);
+        /* element mode 1 (tag) */
+        --em1-bg1: rgba(var(--dark-2), 1);
+        --em1-fc1: rgba(var(--light-3), 1);
+        --em1-bc1: rgba(var(--dark-3), 1);
+        --em1-bg1-hover: rgba(var(--dark-3), 1);
+        /* btn mode 1 (primary) */
+        --bm1-bg1i: linear-gradient(
+          90deg,
+          rgba(var(--brand-1), 1),
+          rgba(var(--brand-2), 1),
+          rgba(var(--brand-1), 1)
+        );
+        --bm1-fc1: rgba(var(--light-1), 1);
+        /* btn mode 2 (secondary) */
+        --bm2-fc1: rgba(var(--light-1), 1);
+        --bm2-bg1-hover: rgba(var(--light-1), 1);
+        --bm2-fc1-hover: rgba(var(--dark-3), 1);
+        /* btn mode 3 (nav button) */
+        --bm3-bg1: rgba(var(--dark-2), 0);
+        --bm3-fc1: rgba(var(--light-1), 1);
+        --bm3-bg1-hover: rgba(var(--dark-1), 1);
+        /* btn mode 4 (download button) */
+        --bm4-fc1: rgba(var(--light-1), 1);
+        --bm4-bg1b: rgba(var(--dark-3), 1);
+        --bm4-bg1b-hover: rgba(var(--light-1), 1);
+        --bm4-fc1-hover: rgba(var(--ligth-1), 1);
+        /* link mode 1 (tab link) */
+        --lm1-fc1: rgba(var(--light-1), 1);
+        --lm1-fc1-hover: rgba(var(--light-3), 0.75);
+        --lm1-bg1b-active: rgba(var(--light-1), 1);
+        --lm1-fc1-active: rgba(var(--light-1), 1);
+      }
+      /* card mode 1 when inside section mode 2 */
+      :is([section-mode="2"], [class*="sm0-2"])
+        :is([card-mode="1"], [class*="cm0-1"]) {
+        --m-bg1: rgba(var(--dark-2), 1);
+        --m-bg2: rgba(var(--dark-3), 0.4);
+        --m-fc2: rgba(var(--light-2), 1);
+        --m-bc1: rgba(var(--dark-3), 1);
+        --m-sc1: rgba(var(--light-1), 1);
+        --em1-bg1: rgba(var(--dark-3), 0.4);
+      }
+      /* card mode 1 default style */
+      :is([card-mode="1"], [class*="cm0-1"]),
+/* card mode 1 when inside section mode 1 */
+:is([section-mode="1"], [class*="sm0-1"]) :is([card-mode="1"], [class*="cm0-1"]) {
+        --m-bg1: rgba(var(--light-2), 1);
+        --m-bg2: rgba(var(--light-3), 0.5);
+        --m-fc2: rgba(var(--dark-1), 1);
+        --m-bc1: rgba(var(--gray-1), 0.15);
+        --m-sc1: rgba(var(--dark-1), 1);
+        --em1-bg1: rgba(var(--light-3), 0.5);
+      }
+      /**%{{element mode: tag}**/
+      [element-mode="1"],
+      [class*="em0-1"] {
+        --m-bg1: var(--em1-bg1);
+        --m-fc1: var(--em1-fc1);
+        --m-bc1: var(--em1-bc1);
+        --m-bg1-hover: var(--em1-bg1-hover);
+      } /**}%**/
+      /**%{{btn mode: solid gradient}**/
+      [btn-mode="1"],
+      [class*="bm0-1"] {
+        --m-bg1i: var(--bm1-bg1i);
+        --m-fc1: var(--bm1-fc1);
+        background-size: 200%;
+      } /**}%**/
+      /**%{{btn mode: outlined}**/
+      [btn-mode="2"],
+      [class*="bm0-2"] {
+        --m-bg1b: var(--bm2-bg1b);
+        --m-fc1: var(--bm2-fc1);
+        --m-bg1-hover: var(--bm2-bg1-hover);
+        --m-bg1b-hover: var(--bm2-bg1b-hover);
+        --m-fc1-hover: var(--bm2-fc1-hover);
+      } /**}%**/
+      /**%{{btn mode: nav}**/
+      [btn-mode="3"],
+      [class*="bm0-3"] {
+        --m-bg1: var(--bm3-bg1);
+        --m-fc1: var(--bm3-fc1);
+        --m-bg1-hover: var(--bm3-bg1-hover);
+        --m-fc1-hover: var(--bm3-fc1-hover);
+      } /**}%**/
+      /**%{{btn mode: download}**/
+      [btn-mode="4"],
+      [class*="bm0-4"] {
+        --m-bg1b: var(--bm4-bg1b);
+        --m-fc1: var(--bm4-fc1);
+        --m-bg1-hover: var(--bm4-bg1-hover);
+        --m-bg1b-hover: var(--bm4-bg1b-hover);
+        --m-fc1-hover: var(--bm4-fc1-hover);
+      } /**}%**/
+      /**%{{link mode: nav}**/
+      [link-mode="1"],
+      [class*="lm0-1"] {
+        --m-fc1: var(--lm1-fc1);
+        --m-fc1-hover: var(--lm1-fc1-hover);
+        --m-bg1b-active: var(--lm1-bg1b-active);
+        --m-fc1-active: var(--lm1-fc1-active);
+        --selection-bg: var(--alt-selection-bg);
+        --selection-fc: var(--alt-selection-fc);
+      } /**}%**/
+      /* backgrounds */
+      [class*="bg0"] {
+        background-color: transparent;
+      }
+      [class*="bg0-1"] {
+        background-color: currentColor;
+      }
+      [class*="bg1"] {
+        background-color: var(--bg1);
+        background-image: var(--bg1i);
+        border-color: var(--bg1b);
+        box-shadow: var(--bg1s);
+      }
+      [class*="bg2"] {
+        background-color: var(--bg2);
+        background-image: var(--bg2i);
+        border-color: var(--bg2b);
+        box-shadow: var(--bg2s);
+      }
+      [class*="bg3"] {
+        background-color: var(--bg3);
+      }
+      [class*="bg4"] {
+        background-color: var(--bg4);
+      }
+      /* font colors */
+      [class*="fc0"] {
+        color: transparent;
+      }
+      [class*="fc0-1"] {
+        color: currentColor;
+      }
+      [class*="fc0-2"] {
+        color: inherit;
+      }
+      [class*="fc1"] {
+        color: var(--fc1);
+      }
+      [class*="fc2"] {
+        color: var(--fc2);
+      }
+      [class*="fc3"] {
+        color: var(--fc3);
+      }
+      /* border colors */
+      [class*="bc0"] {
+        border-color: transparent;
+      }
+      [class*="bc0-1"] {
+        border-color: currentColor;
+      }
+      [class*="bc0-2"] {
+        border-color: inherit;
+      }
+      [class*="bc1"] {
+        border-color: var(--bc1);
+      }
+      [class*="bc2"] {
+        border-color: var(--bc2);
+      }
+      /* text stroke colors */
+      [class*="sc0"] {
+        -webkit-text-stroke-color: transparent;
+      }
+      [class*="sc0-1"] {
+        -webkit-text-stroke-color: currentColor;
+      }
+      [class*="sc0-2"] {
+        -webkit-text-stroke-color: inherit;
+      }
+      [class*="sc1"] {
+        -webkit-text-stroke-color: var(--sc1);
+      }
+      /* default nav dropdown responsive style */
+      @media screen and (max-width: 991px) {
+        [data-nav-menu-open] {
+          background-color: var(--bg2);
+        }
+        .w-nav-button.w--open {
+          background-color: inherit;
+          color: inherit;
+        }
+      }
+      /* default current link style */
+      .w-nav-link.w--current,
+      .w-dropdown-link.w--current {
+        color: inherit;
+      }
+    </style> </div> <div class="page_code_utilities w-embed"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lumosframework/lumos@v1.0.5/layout.css" integrity="sha384-FBpFiKVvehWPc8DLra593H6Wo5ZTBFZpUBSLx8zEMtO6jwJNiZ4xI3r/sF5PxYTV" crossorigin="anonymous"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lumosframework/lumos@v1.0.5/spacing.css" integrity="sha384-Xl1Yt8unmPPMiFuMuJXGaEO5Bma+vwrLWjc3lpCHwBDjLzjCyfLozV2NwOWH+MzX" crossorigin="anonymous"> <style>
+      /* UTILITY STYLES */
+      /* defaults */
+      * {
+        --text-stroke-width: 0;
+        -webkit-text-stroke-width: var(--text-stroke-width);
+        --border-radius: 0;
+        border-radius: var(--border-radius);
+        --border-width: 0;
+        border-width: var(--border-width);
+        border-style: solid;
+      }
+      /* variables */
+      html {
+        /* small section padding */
+        --vt1: var(--size3);
+        --vb1: var(--size3);
+        /* medium section padding */
+        --vt2: var(--size4);
+        --vb2: var(--size4);
+        /* large section padding */
+        --vt3: var(--size8);
+        --vb3: var(--size8);
+        /* page padding */
+        --pp1: 5rem;
+        /* max width */
+        --mw1: none;
+        --mw2: 120rem;
+        /* stroke width */
+        --sw1: var(--bw1);
+        --sw2: var(--bw2);
+        /* border radius */
+        --br1: 0.5rem;
+        --br2: 1rem;
+        --br3: 100vw;
+        /* border width */
+        --bw1: 1.5px;
+        --bw2: 3px;
+        /* default grid gap */
+        --default-grid-gap: 2rem;
+        --default-row-gap: var(--default-grid-gap);
+        --default-column-gap: var(--default-grid-gap);
+        /* spacing scale */
+        --spacing-scale: 1;
+      }
+      /* tablet */
+      @media screen and (max-width: 991px) {
+        html {
+          /* page padding */
+          --pp1: 2.5rem;
+          /* spacing scale */
+          --spacing-scale: 0.875;
+          /* default grid gap */
+          --default-grid-gap: 1.5rem;
+        }
+      }
+      /* landscape */
+      @media screen and (max-width: 767px) {
+        html {
+          /* page padding */
+          --pp1: 1.5rem;
+          /* spacing scale */
+          --spacing-scale: 0.75;
+          /* default grid gap */
+          --default-grid-gap: 1rem;
+        }
+      }
+      /* portrait */
+      @media screen and (max-width: 479px) {
+        html {
+          /* page padding */
+          --pp1: 1.5rem;
+        }
+      }
+      /* section styles */
+      main section,
+      header,
+      footer {
+        position: relative;
+        padding-top: var(--vt2);
+        padding-bottom: var(--vb2);
+      }
+      /* small */
+      [class*="vt1"],
+      [vertical-top="1"] {
+        padding-top: var(--vt1);
+      }
+      [class*="vb1"],
+      [vertical-bottom="1"] {
+        padding-bottom: var(--vb1);
+      }
+      /* medium */
+      [class*="vt2"],
+      [vertical-top="2"] {
+        padding-top: var(--vt2);
+      }
+      [class*="vb2"],
+      [vertical-bottom="2"] {
+        padding-bottom: var(--vb2);
+      }
+      /* large */
+      [class*="vt3"],
+      [vertical-top="3"] {
+        padding-top: var(--vt3);
+      }
+      [class*="vb3"],
+      [vertical-bottom="3"] {
+        padding-bottom: var(--vb3);
+      }
+      /* none */
+      [class*="vt0"],
+      [vertical-top="0"] {
+        padding-top: 0;
+      }
+      [class*="vb0"],
+      [vertical-bottom="0"] {
+        padding-bottom: 0;
+      }
+      /* container styles */
+      .w-container {
+        position: relative;
+        padding-left: var(--pp1);
+        padding-right: var(--pp1);
+        width: 100%;
+        max-width: 90rem;
+        container-type: inline-size;
+      }
+      /* page padding */
+      [class*="pp1"] {
+        padding-left: var(--pp1);
+        padding-right: var(--pp1);
+      }
+      [class*="pp0"] {
+        padding-left: 0;
+        padding-right: 0;
+      }
+      /* max width */
+      [class*="mw1"] {
+        max-width: var(--mw1);
+      }
+      [class*="mw2"] {
+        max-width: var(--mw2);
+      }
+      [class*="mw0"] {
+        max-width: none;
+      }
+      /* stroke width */
+      [class*="sw1"] {
+        --text-stroke-width: var(--sw1);
+      }
+      [class*="sw2"] {
+        --text-stroke-width: var(--sw2);
+      }
+      [class*="sw0"] {
+        --text-stroke-width: 0px;
+      }
+      /* border radius */
+      [class*="br1"] {
+        --border-radius: var(--br1);
+      }
+      [class*="br2"] {
+        --border-radius: var(--br2);
+      }
+      [class*="br3"] {
+        --border-radius: var(--br3);
+      }
+      [class*="br0"] {
+        --border-radius: 0rem;
+      }
+      /* border width */
+      [class*="bw1"] {
+        border-width: var(--bw1);
+        border-style: solid;
+      }
+      [class*="bw2"] {
+        border-width: var(--bw2);
+        border-style: solid;
+      }
+      [class*="bw0"] {
+        border-width: 0;
+      }
+      /* border direction */
+      /**%{{border: top}**/
+      [class*="bw1t"],
+      [class*="bw2t"] {
+        border-bottom-width: 0;
+        border-left-width: 0;
+        border-right-width: 0;
+      } /**}%**/
+      /**%{{border: bottom}**/
+      [class*="bw1b"],
+      [class*="bw2b"] {
+        border-top-width: 0;
+        border-left-width: 0;
+        border-right-width: 0;
+      } /**}%**/
+      /**%{{border: left}**/
+      [class*="bw1l"],
+      [class*="bw2l"] {
+        border-top-width: 0;
+        border-bottom-width: 0;
+        border-right-width: 0;
+      } /**}%**/
+      /**%{{border: right}**/
+      [class*="bw1r"],
+      [class*="bw2r"] {
+        border-top-width: 0;
+        border-bottom-width: 0;
+        border-left-width: 0;
+      } /**}%**/
+      /**%{{border: vertical}**/
+      [class*="bw1v"],
+      [class*="bw2v"] {
+        border-left-width: 0;
+        border-right-width: 0;
+      } /**}%**/
+      /**%{{border: horizontal}**/
+      [class*="bw1h"],
+      [class*="bw2h"] {
+        border-top-width: 0;
+        border-bottom-width: 0;
+      } /**}%**/
+      /* pointer events */
+      [class*="pe0"] {
+        pointer-events: none;
+      }
+      [class*="pe1"] {
+        pointer-events: auto;
+      }
+      /**%{{pointer-events: children}**/
+      [class*="pe2"] {
+        pointer-events: none;
+      }
+      [class*="pe2"] > * {
+        pointer-events: auto;
+      }
+      /**}%**/
+      /* icon styles */
+      /**%#**/
+      [class*="ic1"] svg,
+      [class*="ic2"] svg {
+        width: 100% !important;
+        height: 100% !important;
+      }
+      /**#%**/
+      [class*="ic1"] * {
+        fill: currentColor !important;
+      }
+      [class*="ic2"] * {
+        stroke: currentColor !important;
+      }
+      /* cover */
+      [class*="cf1"] {
+        width: 100%;
+        height: 100%;
+      }
+      [class*="ca1"] {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+      }
+    </style> </div> <div class="page_code_custom w-embed"> <style>
+      /* CUSTOM STYLES */
+      /* remove scroll bounce */
+      body {
+        overscroll-behavior: none;
+      }
+      /* prevent horizontal scroll */
+      .page_wrap {
+        overflow: clip;
+      }
+      /* enable setting w-button border radius with utilities */
+      .w-button {
+        border-radius: var(--border-radius);
+      }
+      /* hide container ::before & ::after */
+      .w-container::before,
+      .w-container::after {
+        display: none;
+      }
+      /* empty div in designer view when utilities are added */
+      .wf-empty[class*="--"] {
+        padding-bottom: 0;
+        padding-right: 0;
+      }
+      /* flex: reverse direction */
+      [reverse-direction="true"] {
+        flex-direction: row-reverse;
+      }
+      /* btn small */
+      [btn-main-small="true"] {
+        padding: 0.5rem 0.75rem;
+      }
+      /* btn hovers */
+      @media (pointer: fine) {
+        a:hover [btn-main="icon"] {
+          transform: translateX(0.2rem);
+        }
+        a:hover [btn-play="base"] {
+          transform: scale(1.1);
+        }
+      }
+      /* slider active style */
+      .splide__slide.is-active .h_hero_overlay--bg2 {
+        width: 0;
+      }
+      .splide__slide.is-active .h_hero_img--ca1 {
+        transform: scale(1);
+      }
+      .splide__slide.is-active p,
+      .splide__slide.is-active h1,
+      .splide__slide.is-active a {
+        opacity: 1;
+        transform: translateY(0);
+        transform: skewY(0deg);
+      }
+      .splide__slide.is-active a {
+        transition-delay: 0.3s;
+      }
+      /* slider pagination style */
+      .splide__pagination__page {
+        background-color: var(--fc2);
+      }
+      .w-slider-dot {
+        width: 0.5rem;
+        height: 0.5rem;
+        border-radius: 50%;
+        background-color: var(--fc2);
+        transition:
+          opacity 0.1s,
+          color 0.1s;
+        opacity: 0.3;
+      }
+      .w-slider-dot.w-active {
+        opacity: 1;
+        background-color: var(--fc2);
+      }
+      .slider-2 .splide__pagination {
+        position: absolute;
+        bottom: 0;
+        opacity: 100;
+      }
+      .slider-2 .splide__pagination__page {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+      /* form styles */
+      /* field placeholder */
+      .w-input::placeholder,
+      .w-select::placeholder {
+        color: var(--fc2);
+      }
+      /* field focus */
+      .w-input:focus,
+      .w-select:focus {
+        border-color: var(--bc2);
+      }
+      /* checkbox and radio selected */
+      .w-checkbox-input.w--redirected-checked,
+      .w-radio-input.w--redirected-checked {
+        border-color: var(--bc2);
+        border-width: var(--bw1);
+      }
+      /* filter radio tab */
+      .filter_tab_label {
+        color: var(--fc2);
+      }
+      .filter_tab_btn input[type="radio"]:checked + .filter_tab_label {
+        color: var(--fc1);
+      }
+      .filter_tab_btn input[type="radio"]:checked + .filter_tab_label::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        bottom: 0;
+        background-image: linear-gradient(
+          90deg,
+          rgba(var(--brand-1)),
+          rgba(var(--brand-2))
+        );
+      }
+      /* post grid hover style */
+      .news_item--br2 {
+        box-shadow: 0 0.5rem 1.5rem -0.25rem var(--bc1);
+      }
+      .news_item--br2:hover {
+        box-shadow: 0 0.75rem 2.5rem -1.25rem var(--fc2);
+      }
+      .news_item--br2:hover .tbn_img--ca1 {
+        transform: scale(1.05);
+      }
+      /* media grid hover style */
+      .media_item:hover .media_img_wrap--br2 {
+        box-shadow: 0 0.75rem 2.5rem -1.25rem var(--fc2);
+      }
+      .media_item:hover .tbn_img--ca1,
+      .mediakit_item--br2:hover .tbn_img--ca1 {
+        transform: scale(1.05);
+      }
+      /* post side list style */
+      .news_side_item--gv0-75 {
+        border-bottom: 1px solid var(--bc1);
+        padding-bottom: 1.5rem;
+      }
+      .news_side_item--gv0-75:last-child {
+        border-bottom: 0px;
+        padding-bottom: 0;
+      }
+      .news_side_item--gv0-75:hover .fw2-lc2 {
+        opacity: 75%;
+      }
+      /* blockquote style */
+      .rich-text blockquote {
+        background-color: var(--bg2);
+        border-color: var(--bc1);
+      }
+      /*table in richtext*/
+      .rich-text table {
+        width: 100%;
+        border-collapse: separate;
+        border-radius: 0.5rem;
+        border: 1px solid var(--bc1);
+      }
+      .rich-text th,
+      .rich-text td {
+        padding: 0.5rem;
+        text-align: left;
+        word-break: break-word;
+      }
+      .rich-text table th:not(:last-child),
+      .rich-text table td:not(:last-child) {
+        border-right: 1px solid var(--bc1);
+      }
+      .rich-text table > thead > tr:not(:last-child) > th,
+      .rich-text table > thead > tr:not(:last-child) > td,
+      .rich-text table > tbody > tr:not(:last-child) > th,
+      .rich-text table > tbody > tr:not(:last-child) > td,
+      .rich-text table > tr:not(:last-child) > td,
+      .rich-text table > tr:not(:last-child) > th,
+      .rich-text table > thead:not(:last-child),
+      .rich-text table > tbody:not(:last-child) {
+        border-bottom: 1px solid var(--bc1);
+      }
+      /* 404 text style */
+      .text_404 {
+        writing-mode: vertical-rl;
+        text-orientation: mixed;
+      }
+      /*ad style */
+      .content_ad_wrap:hover .tbn_img--ca1 {
+        transform: scale(1.05);
+      }
+      /* ad polygon blur */
+      .ad_img_wrap {
+        clip-path: polygon(0 0, 100% 0%, 83% 100%, 0 100%);
+      }
+      .ad_img_wrap.is-side {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
+      }
+      /* floating cta style */
+      .float_cta_list--gp0-5 {
+        transform-origin: right bottom;
+      }
+      /* timeline line style */
+      .timeline_wrap:last-child .timeline_line_wrap {
+        margin-right: 0;
+      }
+      /* image slider perportion */
+      .figure_img_wrap--br2.is_slider--bg2 img {
+        aspect-ratio: 3 / 2;
+        object-fit: contain;
+      }
+      /* radio button style */
+      [type="radio"] {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        padding: 0;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+        display: inline-block;
+        vertical-align: middle;
+        background-origin: border-box;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+        flex-shrink: 0;
+        color: #133ed4;
+        background-color: #fff;
+      }
+      [type="radio"]:checked {
+        border-color: transparent;
+        background-color: currentColor;
+        background-image: url(/images/radio.svg);
+        background-size: 50% 50%;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+      .media_item .img_dl_btn--br1-pd0-75.is-photo {
+        opacity: 0;
+        transition: all 0.2s ease;
+      }
+      .media_item:hover .img_dl_btn--br1-pd0-75.is-photo {
+        opacity: 100;
+      }
+      /* desktop */
+      @media screen and (min-width: 992px) {
+        /* mediakit grid style */
+        .layout--gd1.cd3-ct2 .mediakit_item--br2:first-child {
+          --col-span: 3;
+          padding: 1rem;
+        }
+        .layout--gd1.cd3-ct2 .mediakit_item--br2:first-child .news_head--lc2 {
+          font-size: 2.5rem;
+        }
+        .layout--gd1.cd3-ct2
+          .mediakit_item--br2:first-child
+          .news_info_list--gp0-75-bg0-pd1-5.is_mediakit--sm0-2 {
+          margin-top: 24%;
+        }
+        /* home slider pagination style */
+        .slider-2 .splide__pagination {
+          opacity: 0;
+        }
+      }
+      /* footer cta btn */
+      .btn_main_wrap--br1-fs6-fw2.bm0-1.footer_cta {
+        white-space: nowrap;
+      }
+      /* tablet */
+      @media screen and (max-width: 991px) {
+        /* mediakit grid style */
+        .layout--gd1.cd3-ct2 .mediakit_item--br2:first-child {
+          --col-span: 2;
+        }
+        /* ad polygon blur */
+        .ad_img_wrap.is-side {
+          clip-path: polygon(0 0, 100% 0%, 83% 100%, 0 100%);
+        }
+        /* timeline line style */
+        .timeline_wrap:last-child .timeline_line_wrap {
+          margin-bottom: 0;
+        }
+      }
+      /* landscape */
+      @media screen and (max-width: 767px) {
+        /* mediakit grid style */
+        .layout--gd1.cd3-ct2 .mediakit_item--br2:first-child {
+          --col-span: 1;
+        }
+        /* ad polygon blur */
+        .ad_img_wrap,
+        .ad_img_wrap.is-side {
+          clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
+        }
+      }
+    </style> </div> </div> <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="nav_wrap--bg1-fc1-ff1-bw1b-bc1 w-nav"> <div class="nav_contain--mw1 w-container"> <a href="/" aria-current="page" class="logo_asus_wrap--fc0-1 w-nav-brand w--current"> <div class="logo_nav_asus w-embed"> <svg width="94" height="20" viewBox="0 0 94 20" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M86.39 7.72262L69.5052 6.72217C69.5052 9.31983 71.2077 11.0399 74.1038 11.2681L86.1267 12.1983C87.057 12.2685 87.6362 12.4967 87.6362 13.269C87.6362 14.0413 86.9868 14.2694 85.6177 14.2694H69.2244V19.2717H85.9512C91.2343 19.2717 93.5512 17.4288 93.5512 13.2163C93.5512 9.4427 91.4625 8.021 86.3725 7.70507" fill="currentColor"></path> <path d="M63.7832 12.0756C63.7832 13.8483 62.8881 14.3924 59.8165 14.3924H55.569C53.0415 14.3924 51.9533 13.6552 51.9533 12.0756V5.86221L46.5649 5.47607V12.5319H46.442C46.1261 10.4959 45.3538 8.09129 40.2287 7.75781L23.3263 6.63449C23.3263 9.21461 25.1868 10.7592 28.0653 11.0751L39.825 12.2686C40.7553 12.3388 41.4573 12.6197 41.4573 13.3919C41.4573 14.2344 40.7553 14.3222 39.667 14.3222H23.1332V6.59939L17.7273 6.24835V19.2718H39.7197C44.6166 19.2718 46.1963 16.7268 46.4245 14.6206H46.5473C47.1617 17.973 50.0928 19.2718 55.06 19.2718H60.5361C66.3458 19.2718 69.0839 17.4991 69.0839 13.3393V6.7047L63.7657 6.40632V12.0756H63.7832Z" fill="currentColor"></path> <path d="M0 19.2893H6.56437L14.7786 6.02013L8.91631 5.44092L0 19.2893Z" fill="currentColor"></path> <path d="M74.8935 0C71.0847 0 69.3822 2.38704 69.1014 4.66878V0H63.7832V4.93205H93.0069V0H74.8759H74.8935Z" fill="currentColor"></path> <path d="M51.9358 0H46.5474V4.93205H51.9358V0Z" fill="currentColor"></path> <path d="M45.5819 0H29.1183C25.3096 0 23.6071 2.38704 23.2209 4.66878V0H14.0765C12.8303 0 12.1984 0.386139 11.5665 1.28128L9.05664 4.9496H45.5819V0Z" fill="currentColor"></path> </svg> </div> <div class="logo_nav_press">Pressroom</div> </a> <nav role="navigation" class="nav_list w-nav-menu"> <div class="nav_link_wrap--gp0-75-fw2"> <form action="/search/" class="search_form is-mobile w-form"> <input type="search" class="form_main_field_input--fs7-3-fc1-bw1-bc1-br1-bg1 w-input" maxlength="256" name="query" placeholder="What are you looking for?" id="search-3" required=""><input type="submit" value="" class="search_submit--pd0-bg0-br1 is-mobile w-button"> </form> <a href="/about/" class="nav_link--bm0-3-br1 bm0-3-br1 w-nav-link">About us</a> <a href="/news/" class="nav_link--bm0-3-br1 bm0-3-br1 w-nav-link">News</a> <a href="/blog/" class="nav_link--bm0-3-br1 bm0-3-br1 w-nav-link">Blog</a> <div data-hover="false" data-delay="0" class="dropdown_wrap w-dropdown"> <div class="nav_link--bm0-3-br1 bm0-3-br1 w-dropdown-toggle"> <div>Media</div> </div> <nav class="dropdown_list--br2-bg1 w-dropdown-list"> <a href="/media/videos/" class="nav_link--bm0-3-br1 w-dropdown-link">Videos</a> <a href="/media/photos/" class="nav_link--bm0-3-br1 w-dropdown-link">Photos</a> <a href="/media/corporate-assets/" class="nav_link--bm0-3-br1 w-dropdown-link">Corporate Assets</a> <a href="/media/media-kit/" class="nav_link--bm0-3-br1 w-dropdown-link">Media Kit</a> </nav> </div> <a href="/contact/" class="nav_link--bm0-3-br1 bm0-3-br1 w-nav-link">Contact</a> <div data-hover="false" data-delay="0" data-w-id="05167321-ba0e-10b1-b095-52c6bc226387" class="search_desktop_wrap w-dropdown"> <div id="searchtrigger" class="nav_icon_link--bm0-3-br1 w-dropdown-toggle"> <div class="search_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none"> <path d="M17 17L21 21M3 11C3 13.1217 3.84285 15.1566 5.34315 16.6569C6.84344 18.1571 8.87827 19 11 19C13.1217 19 15.1566 18.1571 16.6569 16.6569C18.1571 15.1566 19 13.1217 19 11C19 8.87827 18.1571 6.84344 16.6569 5.34315C15.1566 3.84285 13.1217 3 11 3C8.87827 3 6.84344 3.84285 5.34315 5.34315C3.84285 6.84344 3 8.87827 3 11Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> <div class="close_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none"> <path d="M19 19L5 5M19 5L5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> </div> <nav class="nav_search_wrap--br2-pd1-sm0-1 w-dropdown-list"> <form action="/search/" method="get" class="search_form w-form"> <input type="search" class="form_main_field_input--fs7-3-fc1-bw1-bc1-br1-bg1 w-input" maxlength="256" name="query" placeholder="What are you looking for?" id="searchinput" required=""><input type="submit" value="" class="search_submit--pd0-bg0-br1 w-button"> </form> </nav> </div> <!-- Lang switcher --> <div data-hover="false" data-delay="0" class="dropdown_wrap w-dropdown"> <div class="lan_dropdown--fc1 w-dropdown-toggle"> <div class="globe_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none"> <path d="M2 12C2 17.523 6.477 22 12 22C17.523 22 22 17.523 22 12C22 6.477 17.523 2 12 2C6.477 2 2 6.477 2 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M13.0009 2.0498C13.0009 2.0498 16.0009 5.9998 16.0009 11.9998C16.0009 17.9998 13.0009 21.9498 13.0009 21.9498M11.0009 21.9498C11.0009 21.9498 8.00086 17.9998 8.00086 11.9998C8.00086 5.9998 11.0009 2.0498 11.0009 2.0498M2.63086 15.4998H21.3709M2.63086 8.4998H21.3709" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> <div class="pl0-25">EN</div> </div> <nav class="dropdown_list--br2-bg1 w-dropdown-list"> <a href="/" class="nav_link--bm0-3-br1 w-dropdown-link"> EN </a><a href="/tw/" class="nav_link--bm0-3-br1 w-dropdown-link"> 繁中 </a> </nav> </div> </div> </nav> <div class="menu_wrap w-nav-button"> <div class="menu_icon w-embed"> <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.25 12.5H33.75M6.25 20H33.75M6.25 27.5H33.75" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"></path> </svg> </div> </div> </div> </div> <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var dropdownButton = document.getElementById("searchtrigger");
+    var searchInput = document.getElementById("searchinput");
+    dropdownButton.addEventListener("click", function () {
+      // This timeout ensures the dropdown is visible before focusing
+      setTimeout(function () {
+        searchInput.focus();
+      }, 200); // Adjust the timeout as per your dropdown's animation speed
+    });
+  });
+</script> <main class="page_main">  <section> <div class="w-layout-blockcontainer w-container"> <div class="content_wrap is-404--gv2"> <h1 class="text_404">:(</h1> <div class="text_center"> <h1>Page Not Found</h1> <p class="fc2-mt0-5"> The page you are looking for doesn&#39;t exist or has been moved. </p> </div> <a href="/" class="w-inline-block"> <div btn-mode="1" btn-main-small="false" class="btn_main_wrap--br1-fs6-fw2"> <div reverse-direction="false" class="btn_main_list"> <div class="btn_main_text--fw2">Back to Home</div> </div> </div> </a> </div> </div> </section>  <footer class="footer--pd0"> <style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var A=Object.defineProperty;var g=(i,o,a)=>o in i?A(i,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):i[o]=a;var d=(i,o,a)=>g(i,typeof o!="symbol"?o+"":o,a);{let i={0:t=>m(t),1:t=>a(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(a(t)),5:t=>new Set(a(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>1/0*t},o=t=>{let[l,e]=t;return l in i?i[l](e):void 0},a=t=>t.map(o),m=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([l,e])=>[l,o(e)]));class y extends HTMLElement{constructor(){super(...arguments);d(this,"Component");d(this,"hydrator");d(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let c=this.querySelectorAll("astro-slot"),n={},h=this.querySelectorAll("template[data-astro-template]");for(let r of h){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(let r of c){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("name")||"default"]=r.innerHTML)}let p;try{p=this.hasAttribute("props")?m(JSON.parse(this.getAttribute("props"))):{}}catch(r){let s=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(s+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${s}`,this.getAttribute("props"),r),r}let u;await this.hydrator(this)(this.Component,p,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});d(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),c.disconnect(),this.childrenConnectedCallback()},c=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});c.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}async start(){let e=JSON.parse(this.getAttribute("opts")),c=this.getAttribute("client");if(Astro[c]===void 0){window.addEventListener(`astro:${c}`,()=>this.start(),{once:!0});return}try{await Astro[c](async()=>{let n=this.getAttribute("renderer-url"),[h,{default:p}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),u=this.getAttribute("component-export")||"default";if(!u.includes("."))this.Component=h[u];else{this.Component=h;for(let f of u.split("."))this.Component=this.Component[f]}return this.hydrator=p,this.hydrate},e,this)}catch(n){console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`,n)}}attributeChangedCallback(){this.hydrate()}}d(y,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",y)}})();</script><astro-island uid="1XYQvu" prefix="s0" component-url="/_astro/SubscribeForm.cqiuAKZz.js" component-export="default" renderer-url="/_astro/client.S4wa76gN.js" props="{&quot;lang&quot;:[0,&quot;en&quot;]}" ssr client="load" opts="{&quot;name&quot;:&quot;SubscribeForm&quot;,&quot;value&quot;:true}" await-children><section class="cta_wrap"><div class="w-layout-blockcontainer w-container"><div class="cta-wrap--bg2-pv2-ph3-br2"><div class="layout--gd1 cd2"><div class="h_center"><h3 class="tw1">Get notified about the latest news and press releases from ASUS</h3></div><div class="h_center"><div class="cta_form_wrap w-form"><form id="wf-form-Subscribe-Form" name="wf-form-Subscribe-Form" data-name="Subscribe Form" class="cta_form_list--gv0-75" data-wf-flow="f001320ada6efe238245d46a" data-wf-page-id="650d4c498dee74c438edae93" data-wf-element-id="d654aba3-c863-b21b-5cd4-d42a3007b67a"><input type="email" class="form_main_field_input--fs7-3-fc1-br1-bg1 footer_cta w-input" maxlength="256" name="email" data-name="Name 2" placeholder="Your email" id="email-address" required><button type="submit" data-wait="Please wait..." class="btn_main_wrap--br1-fs6-fw2 bm0-1 footer_cta w-button" value="Submit">Submit</button></form></div></div></div></div></div></section><!--astro:end--></astro-island> <section class="footer--vt1-vb0-sm0-2-bg4"> <div class="w-layout-blockcontainer contain--mw1 w-container"> <div class="layout--gd1 cd3-ct2"> <div class="footer_wrap--cd2-gh5-gv1"> <div class="footer_link_list"> <a href="#" class="footer_menu_trigger--pb1 w-inline-block"> <div class="fs5">Brand</div> <div class="footer_down_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> </a> <div class="footer_menu_expand--gp0-75"> <a href="https://www.asus.com/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">ASUS</a> <a href="https://rog.asus.com/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">ROG</a> <a href="https://www.asus.com/proart/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">ProArt</a> <a href="https://www.asus.com/business/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">Business</a> <a href="https://iot.asus.com/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">IoT</a> <div class="footer_spacer"></div> </div> </div> <div class="footer_link_list"> <div class="footer_menu_trigger--pb1"> <div class="fs5">About ASUS</div> <div class="footer_down_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> </div> <div class="footer_menu_expand--gp0-75"> <a href="/contact/" class="footer_link--fs6-fw1-lm0-1">Media Contacts</a> <a href="https://www.asus.com/event/Investor/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">Investor Relations</a> <a href="https://csr.asus.com/english/index.aspx" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">ESG</a> <a href="https://www.asus.com/About-ASUS-ASUS-Foundation/" target="_blank" rel="noopener noreferrer" class="footer_link--fs6-fw1-lm0-1">Foundation</a> <div class="footer_spacer"></div> </div> </div> </div> <div class="footer_wrap--gv1"> <div class="social_wrap--gp1-25"> <a href="https://www.linkedin.com/company/asus" target="_blank" rel="noopener noreferrer" class="social_btn--lm0-1 w-inline-block"> <div class="social_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.93994 5.00002C6.93968 5.53046 6.72871 6.03906 6.35345 6.41394C5.97819 6.78883 5.46938 6.99929 4.93894 6.99902C4.40851 6.99876 3.89991 6.78779 3.52502 6.41253C3.15014 6.03727 2.93968 5.52846 2.93994 4.99802C2.94021 4.46759 3.15117 3.95899 3.52644 3.5841C3.9017 3.20922 4.41051 2.99876 4.94094 2.99902C5.47137 2.99929 5.97998 3.21026 6.35486 3.58552C6.72975 3.96078 6.94021 4.46959 6.93994 5.00002ZM6.99994 8.48002H2.99994V21H6.99994V8.48002ZM13.3199 8.48002H9.33994V21H13.2799V14.43C13.2799 10.77 18.0499 10.43 18.0499 14.43V21H21.9999V13.07C21.9999 6.90002 14.9399 7.13002 13.2799 10.16L13.3199 8.48002Z" fill="currentColor"></path> </svg> </div> </a> <a href="https://twitter.com/asuspressroom" target="_blank" rel="noopener noreferrer" class="social_btn--lm0-1 w-inline-block"> <div class="social_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9641 4.2002H19.6105L13.8289 10.8082L20.6305 19.8002H15.3041L11.1329 14.3466L6.36007 19.8002H3.71207L9.89607 12.7322L3.37207 4.2002H8.83207L12.6025 9.185L16.9625 4.2002H16.9641ZM16.0353 18.2162H17.5017L8.03607 5.701H6.46247L16.0353 18.2162Z" fill="currentColor"></path> </svg> </div> </a> <a href="https://www.youtube.com/user/ASUS" target="_blank" rel="noopener noreferrer" class="social_btn--lm0-1 w-inline-block"> <div class="social_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M22.0576 6.94539C21.9381 6.50142 21.7041 6.09662 21.3789 5.77152C21.0538 5.44641 20.649 5.21239 20.2051 5.09289C18.5701 4.65039 12.0001 4.65039 12.0001 4.65039C12.0001 4.65039 5.43008 4.65039 3.79508 5.09289C3.35111 5.21239 2.94631 5.44641 2.6212 5.77152C2.29609 6.09662 2.06208 6.50142 1.94258 6.94539C1.63729 8.61284 1.48914 10.3053 1.50008 12.0004C1.48914 13.6955 1.63729 15.3879 1.94258 17.0554C2.06208 17.4994 2.29609 17.9042 2.6212 18.2293C2.94631 18.5544 3.35111 18.7884 3.79508 18.9079C5.43008 19.3504 12.0001 19.3504 12.0001 19.3504C12.0001 19.3504 18.5701 19.3504 20.2051 18.9079C20.649 18.7884 21.0538 18.5544 21.3789 18.2293C21.7041 17.9042 21.9381 17.4994 22.0576 17.0554C22.3629 15.3879 22.511 13.6955 22.5001 12.0004C22.511 10.3053 22.3629 8.61284 22.0576 6.94539ZM9.90008 15.1504V8.85039L15.3526 12.0004L9.90008 15.1504Z" fill="currentColor"></path> </svg> </div> </a> <a href="https://www.facebook.com/ASUS" class="social_btn--lm0-1 w-inline-block"> <div class="social_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14 13.5H16.5L17.5 9.5H14V7.5C14 6.47 14 5.5 16 5.5H17.5V2.14C17.174 2.097 15.943 2 14.643 2C11.928 2 10 3.657 10 6.7V9.5H7V13.5H10V22H14V13.5Z" fill="currentColor"></path> </svg> </div> </a> <a href="/rss.xml/" class="social_btn--lm0-1 w-inline-block"> <div class="social_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.19995 19.7998C5.64995 19.7998 5.17895 19.6038 4.78695 19.2118C4.39495 18.8198 4.19929 18.3491 4.19995 17.7998C4.19995 17.2498 4.39595 16.7788 4.78795 16.3868C5.17995 15.9948 5.65062 15.7991 6.19995 15.7998C6.74995 15.7998 7.22095 15.9958 7.61295 16.3878C8.00495 16.7798 8.20062 17.2505 8.19995 17.7998C8.19995 18.3498 8.00395 18.8208 7.61195 19.2128C7.21995 19.6048 6.74929 19.8005 6.19995 19.7998ZM18.2 19.7998C18.2 17.8665 17.8333 16.0538 17.1 14.3618C16.3666 12.6698 15.3623 11.1865 14.087 9.9118C12.813 8.63714 11.33 7.63314 9.63795 6.8998C7.94595 6.16647 6.13329 5.7998 4.19995 5.7998V2.7998C6.54995 2.7998 8.75829 3.2458 10.825 4.1378C12.8916 5.0298 14.6916 6.24214 16.225 7.7748C17.7583 9.30814 18.971 11.1081 19.863 13.1748C20.755 15.2415 21.2006 17.4498 21.2 19.7998H18.2ZM12.2 19.7998C12.2 17.5831 11.421 15.6955 9.86295 14.1368C8.30495 12.5781 6.41729 11.7991 4.19995 11.7998V8.7998C5.73329 8.7998 7.16662 9.08747 8.49995 9.6628C9.83329 10.2381 10.996 11.0215 11.988 12.0128C12.9793 13.0041 13.7626 14.1665 14.338 15.4998C14.9133 16.8331 15.2006 18.2665 15.2 19.7998H12.2Z" fill="currentColor"></path> </svg> </div> </a> </div> </div> <div class="footer_wrap--cd3-ct2-ot0-op1"> <a href="/" aria-current="page" class="w-inline-block w--current"><img src="/images/asus_press.svg" loading="lazy" alt=""></a> </div> <div class="footer_wrap--cd3-ct2-bw1t-pv1-25-gv0-75"> <div class="footer_bot_left--gh0-75"> <div class="fs7-2-fc2">
+©ASUSTeK Computer Inc. All rights reserved.
+</div> <div class="footer_bot_list--gp0-5"> <a href="https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy" target="_blank" rel="noopener noreferrer" class="footer_bot_link--fs7-2-fc2">Privacy Policy</a> <div class="footer_bot_link--fs7-2-fc2">・</div> <a href="https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site" target="_blank" rel="noopener noreferrer" class="footer_bot_link--fs7-2-fc2">Terms of Use</a> </div> </div> <div data-hover="false" data-delay="0" class="dropdown_wrap w-dropdown"> <div class="lan_footer_dropdown--ph0-75-pv0-5-bw1-br1-fc2 w-dropdown-toggle"> <div>EN</div> <div class="down_small_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2 4L6 8L10 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> </div> <nav section-mode="1" class="footer_dropdown_list--br2-bg1 w-dropdown-list"> <a href="/" class="nav_link--bm0-3-br1 w-dropdown-link"> EN </a><a href="/tw/" class="nav_link--bm0-3-br1 w-dropdown-link"> 繁中 </a> </nav> </div> </div> </div> </div> </section> <div class="float_cta"> <div data-hover="false" data-delay="0" data-w-id="6c8f9a0c-df3a-b844-dcf6-4b5eb80a5128" class="float_cta_dropdown w-dropdown"> <div btn-mode="1" class="float_cta_btn--fs6 w-dropdown-toggle"> <div class="chat_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.12506 3.115C7.64712 1.09707 10.7813 -0.00159413 14.0113 1.7361e-06C17.8188 1.7361e-06 21.3751 1.46688 24.0338 4.13063C26.6032 6.70813 28.0113 10.1113 28.0001 13.7106C28 16.3496 27.2252 18.9304 25.7719 21.1331L25.7601 21.15C25.7426 21.1756 25.7244 21.2013 25.7063 21.2262C25.6882 21.2512 25.6657 21.2838 25.6607 21.2919L25.6469 21.3169C25.5763 21.4419 25.5219 21.5944 25.5701 21.7481L26.7213 25.9144C26.7674 26.0693 26.7926 26.2297 26.7963 26.3913C26.7971 26.8163 26.6294 27.2244 26.3298 27.526C26.0302 27.8275 25.6233 27.998 25.1982 28C24.9736 27.9926 24.7522 27.9441 24.5451 27.8569L20.3269 26.3344L20.2738 26.3137C20.1591 26.2656 20.0358 26.2411 19.9113 26.2419C19.7966 26.2422 19.6828 26.2633 19.5757 26.3044C19.4744 26.3438 18.5551 26.6956 17.5851 26.9669C16.7788 27.1919 15.1013 27.5294 13.7869 27.5294C10.0588 27.5294 6.57756 26.0856 3.98506 23.4631C1.41506 20.8606 5.91278e-05 17.4013 5.91278e-05 13.7181C-0.000274658 12.7727 0.0998707 11.8299 0.298809 10.9056C0.945059 7.86688 2.65881 5.09938 5.12506 3.115ZM20.0001 16C20.3956 16 20.7823 15.8827 21.1112 15.6629C21.4401 15.4432 21.6964 15.1308 21.8478 14.7654C21.9992 14.3999 22.0388 13.9978 21.9616 13.6098C21.8845 13.2219 21.694 12.8655 21.4143 12.5858C21.1346 12.3061 20.7782 12.1156 20.3902 12.0384C20.0023 11.9613 19.6001 12.0009 19.2347 12.1522C18.8692 12.3036 18.5569 12.56 18.3371 12.8889C18.1174 13.2178 18.0001 13.6044 18.0001 14C18.0001 14.5304 18.2108 15.0391 18.5858 15.4142C18.9609 15.7893 19.4696 16 20.0001 16ZM14.0001 16C14.3956 16 14.7823 15.8827 15.1112 15.6629C15.4401 15.4432 15.6964 15.1308 15.8478 14.7654C15.9992 14.3999 16.0388 13.9978 15.9616 13.6098C15.8845 13.2219 15.694 12.8655 15.4143 12.5858C15.1346 12.3061 14.7782 12.1156 14.3902 12.0384C14.0023 11.9613 13.6001 12.0009 13.2347 12.1522C12.8692 12.3036 12.5569 12.56 12.3371 12.8889C12.1174 13.2178 12.0001 13.6044 12.0001 14C12.0001 14.5304 12.2108 15.0391 12.5858 15.4142C12.9609 15.7893 13.4696 16 14.0001 16ZM8.00006 16C8.39562 16 8.7823 15.8827 9.1112 15.6629C9.4401 15.4432 9.69644 15.1308 9.84782 14.7654C9.99919 14.3999 10.0388 13.9978 9.96163 13.6098C9.88446 13.2219 9.69398 12.8655 9.41427 12.5858C9.13457 12.3061 8.7782 12.1156 8.39024 12.0384C8.00228 11.9613 7.60014 12.0009 7.23469 12.1522C6.86924 12.3036 6.55688 12.56 6.33712 12.8889C6.11736 13.2178 6.00006 13.6044 6.00006 14C6.00006 14.5304 6.21077 15.0391 6.58584 15.4142C6.96092 15.7893 7.46962 16 8.00006 16Z" fill="currentColor"></path> </svg> </div> <div class="close_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 19L5 5M19 5L5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg> </div> </div> <nav class="float_cta_list--gp0-5 w-dropdown-list"> <a href="/contact" class="float_cta_link--gp0-5 w-inline-block"> <div class="float_cta_icon_wrap--pd0-5-bg2-br1"> <div class="mail_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7 9L12 12.5L17 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M2 17V7C2 6.46957 2.21071 5.96086 2.58579 5.58579C2.96086 5.21071 3.46957 5 4 5H20C20.5304 5 21.0391 5.21071 21.4142 5.58579C21.7893 5.96086 22 6.46957 22 7V17C22 17.5304 21.7893 18.0391 21.4142 18.4142C21.0391 18.7893 20.5304 19 20 19H4C3.46957 19 2.96086 18.7893 2.58579 18.4142C2.21071 18.0391 2 17.5304 2 17Z" stroke="currentColor" stroke-width="1.5"></path> </svg> </div> </div> <div>Contact</div> </a> <a href="https://www.asus.com/support/" target="_blank" rel="noopener noreferrer" class="float_cta_link--gp0-5 w-inline-block"> <div class="float_cta_icon_wrap--pd0-5-bg2-br1"> <div class="mail_icon w-embed"> <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.4626 8.90611C18.1807 9.1862 17.7995 9.34341 17.4021 9.34341C17.0047 9.34341 16.6234 9.1862 16.3415 8.90611L15.0961 7.66064C14.8157 7.37878 14.6584 6.99741 14.6584 6.59986C14.6584 6.20232 14.8157 5.82094 15.0961 5.53908L17.9151 2.71861C17.9207 2.71325 17.9249 2.70658 17.9272 2.69922C17.9296 2.69185 17.9301 2.68401 17.9287 2.6764C17.9274 2.66879 17.9241 2.66164 17.9193 2.65559C17.9144 2.64954 17.9082 2.64478 17.9011 2.64174C16.0814 1.86174 13.7222 2.25924 12.224 3.74658C10.7906 5.16924 10.709 7.30908 11.234 9.17658C11.3086 9.44203 11.3085 9.72292 11.2335 9.98828C11.1586 10.2536 11.0118 10.4931 10.8094 10.6803L2.99998 17.8124C2.76957 18.0166 2.58339 18.2659 2.45287 18.5448C2.32234 18.8237 2.25025 19.1263 2.24101 19.4341C2.23177 19.7419 2.28558 20.0483 2.39914 20.3346C2.51269 20.6208 2.6836 20.8808 2.90133 21.0985C3.11907 21.3162 3.37905 21.4871 3.66527 21.6007C3.95149 21.7143 4.25792 21.7681 4.56571 21.7588C4.8735 21.7496 5.17615 21.6775 5.45505 21.547C5.73394 21.4165 5.9832 21.2303 6.18748 20.9999L13.3997 13.1717C13.5845 12.9727 13.82 12.8277 14.0809 12.7523C14.3419 12.677 14.6184 12.674 14.8809 12.7438C16.7344 13.2402 18.8437 13.1469 20.2584 11.7505C21.7814 10.2505 22.11 7.59924 21.3717 6.08189C21.3684 6.07526 21.3635 6.06952 21.3575 6.06512C21.3516 6.06073 21.3446 6.05782 21.3373 6.05663C21.33 6.05544 21.3225 6.05601 21.3154 6.05828C21.3084 6.06055 21.302 6.06447 21.2967 6.06971L18.4626 8.90611Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"></path> <path d="M4.5 20.25C4.91421 20.25 5.25 19.9142 5.25 19.5C5.25 19.0858 4.91421 18.75 4.5 18.75C4.08579 18.75 3.75 19.0858 3.75 19.5C3.75 19.9142 4.08579 20.25 4.5 20.25Z" fill="currentColor"></path> </svg> </div> </div> <div>Support</div> </a> </nav> </div> </div> </footer> </main> </div> <script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).only=e;window.dispatchEvent(new Event("astro:only"));})();</script><astro-island uid="Z27IU6z" component-url="/_astro/SubscribeModal.D6_Ggyrq.js" component-export="default" renderer-url="/_astro/client.S4wa76gN.js" props="{&quot;lang&quot;:[0,&quot;en&quot;],&quot;title&quot;:[0,&quot;Subscribe to ASUS Newsletter today&quot;],&quot;description&quot;:[0,&quot;Get the latest updates delivered straight to your inbox!&quot;],&quot;image&quot;:[0,{&quot;rawOptions&quot;:[0,{&quot;src&quot;:[0,&quot;348d2d54-f04e-4241-8aee-b7e5fd1956d4/image (15).jpg&quot;],&quot;width&quot;:[0,600],&quot;height&quot;:[0,380]}],&quot;options&quot;:[0,{&quot;src&quot;:[0,&quot;348d2d54-f04e-4241-8aee-b7e5fd1956d4/image (15).jpg&quot;],&quot;width&quot;:[0,600],&quot;height&quot;:[0,380]}],&quot;src&quot;:[0,&quot;/assets/w_600,h_380/348d2d54-f04e-4241-8aee-b7e5fd1956d4/image (15).jpg&quot;],&quot;srcSet&quot;:[0,{&quot;values&quot;:[1,[]],&quot;attribute&quot;:[0,&quot;&quot;]}],&quot;attributes&quot;:[0,{&quot;width&quot;:[0,600],&quot;height&quot;:[0,380],&quot;loading&quot;:[0,&quot;lazy&quot;],&quot;decoding&quot;:[0,&quot;async&quot;]}]}]}" ssr client="only" opts="{&quot;name&quot;:&quot;SubscribeModal&quot;,&quot;value&quot;:&quot;vue&quot;}"></astro-island> <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.10/clipboard.min.js" integrity="sha512-PIisRT8mFfdxx99gMs7WAY5Gp+CtjYYxKvF93w8yWAvX548UBNADHu7Qkavgr6yRG+asocqfuk5crjNd5z9s6Q==" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-socialshare@1.3.1/socialshare.js" integrity="sha256-6v1+F741R1PKEg7wPSiqRaN8Qj6J6fJgLo/VokQA8VA=" crossorigin="anonymous"></script> <script defer src="/js/webflow.js" type="text/javascript"></script>  </body></html>
