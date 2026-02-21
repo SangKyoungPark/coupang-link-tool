@@ -59,7 +59,7 @@ def FormatYoutubeDescription(
         os.makedirs(outputDir, exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         filePath = os.path.join(outputDir, f"youtube_desc_{timestamp}.txt")
-        with open(filePath, "w", encoding="utf-8") as f:
+        with open(filePath, "w", encoding="utf-8", errors="replace") as f:
             f.write(result)
 
     return result

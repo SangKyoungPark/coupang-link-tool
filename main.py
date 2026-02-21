@@ -9,6 +9,7 @@ Usage:
 """
 
 import argparse
+import io
 import sys
 
 from dotenv import load_dotenv
@@ -21,7 +22,15 @@ from coupang.search import SearchProducts
 from coupang.deeplink import GenerateDeeplinks
 from formatter.youtube import FormatYoutubeDescription
 
-console = Console()
+# Windows cp949 인코딩 깨짐 방지 — stdout/stderr/stdin 모두 UTF-8로 강제
+if sys.stdout.encoding != "utf-8":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+if sys.stderr.encoding != "utf-8":
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+if sys.stdin and hasattr(sys.stdin, "buffer"):
+    sys.stdin = io.TextIOWrapper(sys.stdin.buffer, encoding="utf-8", errors="replace")
+
+console = Console(force_terminal=True)
 
 
 def DisplayProducts(products: list[dict]) -> None:
